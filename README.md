@@ -1,5 +1,5 @@
 <h1 align="center"> Haiba Zaidan Tufiqulhakim</h1>
-<h2>Hello </h2>
+<h2 align="center> Hello </h2>
 
 
 ---
