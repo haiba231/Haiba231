@@ -1,4 +1,4 @@
-<h1> Haiba Zaidan Tufiqulhakim</h1>
+<h1> align="center"> Haiba Zaidan Tufiqulhakim</h1>
 <h2>Hello </h2>
 
 
